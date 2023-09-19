@@ -17,6 +17,8 @@ This work is licensed under a `Creative Commons Attribution-NonCommercial-ShareA
 .. image:: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
     :target: http://creativecommons.org/licenses/by-nc-sa/4.0/
 
-This work is the theoretical foundation of the `hyperpack library`_. Most of the mechanics and the inner workings of that library is based upon this document.
+This work is the theoretical foundation of the `hyperpack library`_. Most of the mechanics and the inner workings of that library is based upon this `document`_.
 
 .. _`hyperpack library`: https://github.com/AlkiviadisAleiferis/hyperpack
+
+.. _`document`: https://github.com/AlkiviadisAleiferis/hyperpack-theory/blob/main/a_hyper_heuristic_for_solving_variants_of_the_2D_binpacking_problem.pdf
